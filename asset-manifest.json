@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/harshil-kakdiya.github.io/mistore-clone/static/css/main.ca3e21f4.css",
-    "main.js": "/harshil-kakdiya.github.io/mistore-clone/static/js/main.8391f05a.js",
-    "index.html": "/harshil-kakdiya.github.io/mistore-clone/index.html",
-    "main.ca3e21f4.css.map": "/harshil-kakdiya.github.io/mistore-clone/static/css/main.ca3e21f4.css.map",
-    "main.8391f05a.js.map": "/harshil-kakdiya.github.io/mistore-clone/static/js/main.8391f05a.js.map"
+    "main.css": "/mistore-clone/static/css/main.ca3e21f4.css",
+    "main.js": "/mistore-clone/static/js/main.8391f05a.js",
+    "index.html": "/mistore-clone/index.html",
+    "main.ca3e21f4.css.map": "/mistore-clone/static/css/main.ca3e21f4.css.map",
+    "main.8391f05a.js.map": "/mistore-clone/static/js/main.8391f05a.js.map"
   },
   "entrypoints": [
     "static/css/main.ca3e21f4.css",
